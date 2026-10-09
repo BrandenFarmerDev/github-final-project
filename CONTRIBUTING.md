@@ -2,6 +2,8 @@
 
 Thank you for considering a contribution. Improvements to the calculator, its documentation, and the project workflow are welcome. Please read the [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 ## How to contribute
 
 1. **Open an issue** to describe a bug, question, or proposed change. For small fixes, a clear pull request description is also welcome.

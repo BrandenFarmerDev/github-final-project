@@ -45,7 +45,6 @@ To run the calculation non-interactively, pass the three values as arguments:
 - `LICENSE` — Apache License 2.0.
 - `CODE_OF_CONDUCT.md` — community conduct expectations.
 - `CONTRIBUTING.md` — contribution workflow and review guidance.
-- `GITHUB_EXECUTION_CHECKLIST.md` — local checklist for the GitHub exercise and its evidence.
 
 ## Contributing
 
